@@ -44,8 +44,8 @@
     <a href="#about-the-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-<!--     <a href="">View Demo</a>
-    · -->
+    <a href="https://angular-tutorial-part-one-of-two.netlify.app/">View Demo</a>
+    ·
     <a href="">Report Bug</a>
     ·
     <a href="">Request Feature</a>
