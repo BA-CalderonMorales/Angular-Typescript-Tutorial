@@ -33,10 +33,10 @@
 <br />
 <p id="top" align="center">
   <a href="https://github.com/BA-CalderonMorales/Angular-Typescript-Tutorial">
-    <img src="Image" alt="Logo" width="150" height="80">
+    <img src="https://user-images.githubusercontent.com/62074841/134056887-b5e3707c-c048-4dd8-bc68-2425f4ccb433.png" alt="Logo" width="75" height="80">
   </a>
 
-  <h3 align="center">Angular & TypeScript - Tutorial Project</h3>
+  <h3 align="center">Angular & TypeScript - Tutorial Project - Part I of II</h3>
 
   <p align="center">
     Creating a simple Angular SPA with TypeScript and Angular CLI.
@@ -85,10 +85,24 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image]()
+![image](https://user-images.githubusercontent.com/62074841/134056887-b5e3707c-c048-4dd8-bc68-2425f4ccb433.png)
+![image](https://user-images.githubusercontent.com/62074841/134057168-6e35cd01-4981-4e07-8d13-806f2cad1563.png)
 
 <p>
- Project Description will come shortly.
+ In the first part of this tutorial project, I learned how Angular CLI is set up, along with how to search through the Angular.io website 
+ in order to search for the specific things that I am looking for in order to learn how to use a variety of different tools that the framework 
+ has to offer. To see a breakdown of what this covers, you can look at the YouTube link in the Acknowledgments section of this README, where the YouTube content creator: Awais Mirza breaks 
+ down how to use Angular in 2021. I only put a little bit of a twist from what his three hour tutorial went over, mostly because I already have 
+ experience using frontend frameworks (i.e. React). The second part of this tutorial covers Routing, and I'll be sure to post that on GitHub 
+ as soon as I finish with it.
+</p>
+
+<p>
+ Along with learning about how to use Angular's CLI, the first part of his tutorial also showed me everything that had to do with making api calls, 
+ using directives to handle different class names pertaining to different tags, how to bind variables to a components html page, as well as looking 
+ into how to use two-way and property binding correctly. I really enjoyed seeing how Angular does these things, but also how the framework handles 
+ conditional rendering, as well as how to loop through arrays and arrays of objects. Although there are a few similarities, so far, Angular is proving 
+ to be quite different from React.
 </p>
 
 <div id="demo"></div>
@@ -103,7 +117,9 @@
 <div id="built-with"></div>
 
 * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+* ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 * ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 * ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -120,9 +136,12 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
 
-   `git clone https://github.com/BA-CalderonMorales/Construction-Ecommerce-Frontend.git`
+   `git clone https://github.com/BA-CalderonMorales/Angular-Typescript-Tutorial.git`
 
-2. More steps will come upon project completion.
+2. `cd myapp`.
+3. You may need to do an npm install, so go ahead and try that before moving on to the next step.
+4. `ng serve`
+5. Enjoy my simple SPA. :)
 
 
 <!-- USAGE EXAMPLES -->
@@ -154,7 +173,6 @@ If there is any bugs that you find after completing every step in my installatio
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
