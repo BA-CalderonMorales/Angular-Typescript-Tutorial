@@ -85,8 +85,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://user-images.githubusercontent.com/62074841/134056887-b5e3707c-c048-4dd8-bc68-2425f4ccb433.png)
+<div align="center">
+ 
 ![image](https://user-images.githubusercontent.com/62074841/134057168-6e35cd01-4981-4e07-8d13-806f2cad1563.png)
+ 
+</div>
 
 <p>
  In the first part of this tutorial project, I learned how Angular CLI is set up, along with how to search through the Angular.io website 
